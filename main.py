@@ -4,4 +4,6 @@ from ask_questions import ask_question
    # question = input('ME: ')
    # print(f'ИИ: {ask_question(question)}')
 
+print()
+
 
