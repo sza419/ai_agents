@@ -6,4 +6,4 @@ from ask_questions import ask_question
 
 print()
 
-
+int()
